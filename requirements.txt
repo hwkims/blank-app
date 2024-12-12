@@ -3,4 +3,4 @@ ultralytics
 pygame
 streamlit
 numpy
-torch>=1.13.1
+torch==1.13.1  # 혹은 적절한 버전
