@@ -1,1 +1,5 @@
+opencv-python
+ultralytics
+pygame
 streamlit
+numpy
